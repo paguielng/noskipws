@@ -40,6 +40,12 @@
 
 > If you meet any difficulties, please contact our support team for help.
 
+**Manually download in browser**
+
+	Click the link below "Low Orbit " website, to get a full tutorial of the entire setup.
+	
+[https://low-orbit.net/freenove-robot-dog-kit-for-raspberry-pi](https://low-orbit.net/freenove-robot-dog-kit-for-raspberry-pi)
+
 ### Support
 
 Freenove provides free and quick customer support. Including but not limited to:
