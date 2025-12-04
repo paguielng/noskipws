@@ -1,0 +1,39 @@
+# Fichiers et répertoires à ignorer dans un projet Python/Raspberry Pi
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+*~
+*.pyc
+__pycache__/
+
+# Logs et données temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Fichiers spécifiques à l'OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration sensibles (à ne jamais commiter)
+config.ini
+.env
+settings.py
+secrets.py
+
+# Fichiers de compilation et d'artefacts
+dist/
+build/
+*.egg-info/
+
+# Fichiers spécifiques à l'IDE (ex: VS Code)
+.vscode/
+
+# Fichiers spécifiques au matériel/modèles 3D (artefacts générés)
+# Ignorer les fichiers de sortie de simulation ou de rendu
+*.stl.log
+*.dxf.tmp
