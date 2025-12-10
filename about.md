@@ -1,1 +1,0 @@
-Freenove Robot Dog Kit for Raspberry Pi
